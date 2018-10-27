@@ -22,31 +22,7 @@ CREATE TABLE products(
 
     -- Creates new rows containing data in all named columns --
     INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("iPhone 8", "Electronic", 799.99, 10);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Doritos", "Chips & Crisps", 1.89, 50);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("King Size Bed", "Furniture", 259.99, 5);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Levis 514", "Clothing", 49.99, 15);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Trampoline", "Sports & Outdoors", 319.00, 9);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Spider-Man Costume", "Halloween", 21.59, 66);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Imperial Diamond Ring", "Engagement Rings", 690.99, 4);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Gucci Bloom", "Fragrances", 79.99, 25);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Castrol Oil", "Oils and Fluids", 24.67, 48);
-
-    INSERT INTO products (product_name, department_name, price, stock_quantity)
-    VALUES ("Balloons", "Party Supplies", 1.22, 100);
+    VALUES ("iPhone 8", "Electronic", 799.99, 10), ("Doritos", "Chips & Crisps", 1.89, 50), ("King Size Bed", "Furniture", 259.99, 5),
+        ("Levis 514", "Clothing", 49.99, 15), ("Trampoline", "Sports & Outdoors", 319.00, 9), ("Spider-Man Costume", "Halloween", 21.59, 66),
+        ("Imperial Diamond Ring", "Engagement Rings", 690.99, 4), ("Gucci Bloom", "Fragrances", 79.99, 25), ("Castrol Oil", "Oils and Fluids", 24.67, 48),
+        ("Balloons", "Party Supplies", 1.22, 100);

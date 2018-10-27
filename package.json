@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mhamzahhanif/bamazon/issues"
   },
-  "homepage": "https://github.com/mhamzahhanif/bamazon#readme"
+  "homepage": "https://github.com/mhamzahhanif/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
 }
