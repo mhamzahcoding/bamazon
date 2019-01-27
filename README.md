@@ -13,6 +13,6 @@ There are the screenshots of the working application. It's all in the terminal s
 
 ![Bamazon1](https://github.com/mhamzahhanif/bamazon/blob/master/Screenshots/1-bamazonStartup.PNG)
 
-![Bamazon2](![](https://github.com/mhamzahhanif/bamazon/blob/master/Screenshots/2-displayingProducts.PNG))
+![Bamazon2](https://github.com/mhamzahhanif/bamazon/blob/master/Screenshots/2-displayingProducts.PNG)
 
 ![Bamazon3](https://github.com/mhamzahhanif/bamazon/blob/master/Screenshots/3-bamazonFinal.PNG)
